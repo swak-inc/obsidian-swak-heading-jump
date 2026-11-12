@@ -1,0 +1,20 @@
+{
+  "name": "obsidian-swak-heading-jump",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Align outline heading jumps to the top in Obsidian editing view.",
+  "scripts": {
+    "test": "node test/run.cjs"
+  },
+  "devDependencies": {
+    "@codemirror/state": "6.5.2",
+    "@codemirror/view": "6.38.6",
+    "esbuild": "0.24.2",
+    "playwright": "1.64.1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swak-inc/obsidian-swak-heading-jump.git"
+  }
+}

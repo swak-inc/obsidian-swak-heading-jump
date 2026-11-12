@@ -1,0 +1,10 @@
+{
+  "id": "swak-heading-jump",
+  "name": "Swak Heading Jump",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Align headings to the top of the editor when you jump to them from the outline in Live Preview or Source mode.",
+  "author": "Swak Inc.",
+  "authorUrl": "https://swak.jp",
+  "isDesktopOnly": false
+}
